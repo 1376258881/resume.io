@@ -15,13 +15,13 @@
 
 ```
 # 个人名称或昵称
-name: xiaoxiao
+name: wangxinyu
 # 页面个人头像信息中地址展示信息
-location: 大连
+location: wuhan
 # 页面个人头像信息中公司展示信息
 company: IBM
 # 页面个人头像信息中职位展示信息
-position: Java开发工程师
+position: Web开发工程师
 # 页面个人头像信息中GITHUB展示信息
 github: https://github.com/XXXX
 # 页面个人头像信息中Facebook展示信息
